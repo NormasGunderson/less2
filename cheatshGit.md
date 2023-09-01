@@ -1,4 +1,4 @@
-# Git Class Note 8-29-23
+# Git Class Note 8-29-23 at minimum learn this 
 
 ## Check if you have git in your computer
 ```git look for and update ver.
