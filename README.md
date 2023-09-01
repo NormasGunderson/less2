@@ -5,5 +5,7 @@
 - [ ]  Add more to the readme.md file
 
 # If you find something worth keep it pls add it
+at this point I create a branch named practicx-git
+
 
 
