@@ -199,3 +199,4 @@ cd lesson  # to go to lesson folder
 
 history  # to see the history
 ```
+
